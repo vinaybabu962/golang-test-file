@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("more golang")
+	fmt.Println("some more golang")
 
 }
